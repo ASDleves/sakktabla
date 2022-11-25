@@ -1,0 +1,31 @@
+main{
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+}
+th{
+    background-color: gray;
+    color: lightyellow;
+    width: 20px;
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid gray;
+    height: 50px;
+    width: 50px;
+}
+table{
+    margin: auto;
+}
+header{
+    text-align: center;
+}
+
+.paros th:nth-child(odd){
+    background-color: gray;
+}
+.paratlan th:nth-child(even){
+    background-color: gray;
+}

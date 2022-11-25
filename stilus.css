@@ -1,0 +1,31 @@
+.szurke{
+    background-color: lightgray;
+}
+.fejlec{
+    background-color: lightslategray;
+}
+table{
+    border-collapse: collapse;
+    width: 90%;
+    margin: auto;
+    border: 1px solid darkgray;
+}
+main{
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+    background-color: white;
+    height: 200px;
+}
+header{
+    text-align: center;
+}
+body{
+    background-color: lightyellow;
+}
+.masodik{
+    border-right: 1px solid darkgray;
+}
+td, th{
+    border-bottom: 1px solid gray;
+}
